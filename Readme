@@ -1,0 +1,56 @@
+# HB Store
+
+HB Store é uma landing page moderna para apresentação de produtos tecnológicos, com carrossel animado, design responsivo e efeitos visuais.
+
+## Demonstração
+
+![HB Store Preview](./post.png)
+
+## Recursos
+
+- Carrossel de produtos com navegação por setas
+- Indicadores visuais e numéricos
+- Animações decorativas com círculos
+- Layout responsivo para desktop, tablet e celular
+- Estilo moderno com gradientes e fontes personalizadas
+
+## Tecnologias
+
+- HTML5
+- CSS3 (incluindo media queries)
+- JavaScript
+
+## Como usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/hbstore.git
+   ```
+2. Abra o arquivo `index.html` em seu navegador.
+
+## Estrutura
+
+```
+HBstore/
+├── assets/
+│   ├── apple-watch.png
+│   ├── vision-pro.png
+│   ├── air-pods.png
+│   └── post.png
+├── index.html
+├── style.css
+└── script.js
+```
+
+## Personalização
+
+- Para adicionar novos produtos, edite o arquivo `index.html` e insira novos blocos `.item` dentro da div `.list`.
+- Para alterar estilos, modifique o arquivo `style.css`.
+
+## Licença
+
+Este projeto é apenas para fins de estudo e demonstração.
+
+---
+
+Desenvolvido por [Edson Lemos]
